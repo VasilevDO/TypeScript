@@ -7,7 +7,7 @@ const App: React.FC = () => (
 	<>
 		<Header/>
 		<div className="content">
-            kekw
+            TypeScript
 		</div>
 		<Footer/>
 	</>
